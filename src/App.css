@@ -1,0 +1,4 @@
+.act{color:red}
+#home{width: 100%;position: fixed;bottom: 0;left:0;background: #ccc;display: flex}
+#home a{flex: 1;line-height: 50px;text-align: center;text-decoration: none}
+a{color:black}
